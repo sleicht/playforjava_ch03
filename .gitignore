@@ -1,0 +1,15 @@
+bin/
+/logs/
+/project/project
+/project/target
+/target
+target/
+.history
+.project
+.classpath
+.idea/
+.g8/
+.settings/
+app-2.11/
+generated-test/
+gradle/
